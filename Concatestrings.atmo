@@ -418,7 +418,7 @@
     "Label2": {
       "type": "Label",
       "properties": {
-        "label": "     ReDe Mask\nTime             BPM\n==============    ",
+        "label": "     ReDe Mask\n             \n==============    ",
         "enabled": true,
         "visible": true,
         "font": "14px Arial",
